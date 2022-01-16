@@ -19,7 +19,7 @@
         <Component Subtype="Construction" Count="80" />
         <Component Subtype="Motor" Count="10" />
         <Component Subtype="Computer" Count="50" />
-        <Component Subtype="Detector" Count="40" />
+        <Component Subtype="Detector" Count="60" />
         <Component Subtype="SteelPlate" Count="40" />
       </Components>
       <CriticalComponent Subtype="Detector" Index="0" />
@@ -68,7 +68,7 @@
         <Component Subtype="Construction" Count="160" />
         <Component Subtype="Motor" Count="20" />
         <Component Subtype="Computer" Count="100" />
-        <Component Subtype="Detector" Count="80" />
+        <Component Subtype="Detector" Count="240" />
         <Component Subtype="SteelPlate" Count="80" />
       </Components>
       <CriticalComponent Subtype="Detector" Index="0" />
@@ -117,7 +117,7 @@
         <Component Subtype="Construction" Count="240" />
         <Component Subtype="Motor" Count="30" />
         <Component Subtype="Computer" Count="150" />
-        <Component Subtype="Detector" Count="120" />
+        <Component Subtype="Detector" Count="960" />
         <Component Subtype="SteelPlate" Count="120" />
       </Components>
       <CriticalComponent Subtype="Detector" Index="0" />
@@ -166,7 +166,7 @@
         <Component Subtype="Construction" Count="4" />
         <Component Subtype="Motor" Count="2" />
         <Component Subtype="Computer" Count="2" />
-        <Component Subtype="Detector" Count="2" />
+        <Component Subtype="Detector" Count="4" />
         <Component Subtype="SteelPlate" Count="4" />
       </Components>
       <CriticalComponent Subtype="Detector" Index="0" />
@@ -214,7 +214,7 @@
         <Component Subtype="Construction" Count="8" />
         <Component Subtype="Motor" Count="4" />
         <Component Subtype="Computer" Count="4" />
-        <Component Subtype="Detector" Count="4" />
+        <Component Subtype="Detector" Count="16" />
         <Component Subtype="SteelPlate" Count="8" />
       </Components>
       <CriticalComponent Subtype="Detector" Index="0" />
@@ -262,7 +262,7 @@
         <Component Subtype="Construction" Count="12" />
         <Component Subtype="Motor" Count="6" />
         <Component Subtype="Computer" Count="6" />
-        <Component Subtype="Detector" Count="6" />
+        <Component Subtype="Detector" Count="64" />
         <Component Subtype="SteelPlate" Count="12" />
       </Components>
       <CriticalComponent Subtype="Detector" Index="0" />
@@ -311,7 +311,7 @@
         <Component Subtype="Construction" Count="320" />
         <Component Subtype="Motor" Count="40" />
         <Component Subtype="Computer" Count="200" />
-        <Component Subtype="Detector" Count="160" />
+        <Component Subtype="Detector" Count="3840" />
         <Component Subtype="SteelPlate" Count="160" />
       </Components>
       <CriticalComponent Subtype="Detector" Index="0" />
@@ -360,7 +360,7 @@
         <Component Subtype="Construction" Count="16" />
         <Component Subtype="Motor" Count="8" />
         <Component Subtype="Computer" Count="8" />
-        <Component Subtype="Detector" Count="8" />
+        <Component Subtype="Detector" Count="256" />
         <Component Subtype="SteelPlate" Count="16" />
       </Components>
       <CriticalComponent Subtype="Detector" Index="0" />
