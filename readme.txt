@@ -1,4 +1,4 @@
-This is an edit of another mod, found below! This is rebalanced for our server. [url=https://github.com/MaxTheMooshroom/SpcEng_LR-OreDetect]Source[/url]
+This is a fork of another mod, found below! This is rebalanced for our server. [url=https://github.com/MaxTheMooshroom/SpcEng_LR-OreDetect]Source[/url]
 
 
 Visit my workshop page:
