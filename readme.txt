@@ -1,3 +1,5 @@
+This is an edit of another mod, found below! This is rebalanced for our server. 
+
 Visit my workshop page:
 http://steamcommunity.com/id/KK4DUY/myworkshopfiles/?appid=244850
 
